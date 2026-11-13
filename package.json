@@ -1,0 +1,15 @@
+{
+  "name": "demo-meshcore-js-with-mdns",
+  "version": "1.0.0",
+  "description": "",
+  "license": "LGPL-3.0",
+  "author": "Li Hardy Extreme",
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test"
+  },
+  "dependencies": {
+    "@liamcottle/meshcore.js": "^1.15.0",
+    "mdns-nodejs-magic": "github:lihardyextreme/mdns-nodejs-magic"
+  }
+}
