@@ -1,6 +1,6 @@
 # MeshCore JavaScript mDNS Demo
 
-A small Node.js example that discovers MeshCore devices advertising the `_meshcore._tcp.local` service on the local network, connects to a discovered device over TCP, and prints its contact names.
+A small Node.js example that discovers MeshCore devices advertising the `_meshcore._tcp.local` service on the local network, connects to a discovered device over TCP, and prints its contact names. MeshCore with WiFi on Heltec 3/4 version > 1.18.0 having the new [mDNS feature](https://github.com/meshcore-dev/MeshCore/pull/3770).
 
 ## What it does
 
